@@ -1,6 +1,6 @@
 ## Hello! My name is Agamedes, I'm 18y, and I'm currently studying Computer Science in college in Brazil. I'm constantly learning and always looking to improve my skills.
 
--> About my programming languages:
+-> About my languages:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
